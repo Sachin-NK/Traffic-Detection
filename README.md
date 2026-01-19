@@ -4,7 +4,7 @@ This project implements a traffic detection system using the YOLOv8 model to det
 
 ## Features
 
-- **Vehicle Detection**: Detects vehicles such as cars and motorcycles in the video stream.
+- **Vehicle Detection**: Detects vehicles such as cars trucks and motorcycles in the video stream.
 - **Lane Counting**: Divides the frame into three regions (left, middle, and right) and counts the vehicles passing through each region.
 - **Visual Overlays**: Displays graphical overlays such as:
   - Vehicle count for each lane.
